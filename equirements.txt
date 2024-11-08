@@ -1,2 +1,5 @@
 flask
 aiogram
+git add requirements.txt
+git commit -m "Fix dependencies in requirements.txt"
+git push origin main
